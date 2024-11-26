@@ -13,7 +13,7 @@ function toggleMode() {
   }
    if (html.classList.contains("light")) {
      //se tiver light mode, adicionar a imagem light
-     img.setAttribute("alt", "foto do desenvolvedor do curso")
+     img.setAttribute("alt", "Foto de Igor Salles serio, barba e fundo branco")
    } else {
      img.setAttribute("alt", "Foto de Igor Salles serio, barba e fundo branco")
    }
